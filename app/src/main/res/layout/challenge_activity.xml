@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewDesafio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Desafio do Dia: Economize Água!"
+        android:textSize="20sp"
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/buttonProximoDesafio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Próximo Desafio"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/buttonInicio"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:text="Início"
+        android:layout_marginTop="100dp"/>
+</LinearLayout>
