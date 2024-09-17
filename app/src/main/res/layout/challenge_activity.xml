@@ -4,26 +4,34 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@color/background"
     android:gravity="center"
     android:padding="16dp">
 
     <TextView
         android:id="@+id/textViewDesafio"
+        style="@style/fontDefaultTitle"
+        android:textStyle="bold"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Desafio do Dia: Economize Água!"
         android:textSize="20sp"
         android:gravity="center"/>
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/buttonProximoDesafio"
+        style="@style/btnDefaut"
+        android:background="@drawable/button_gradient"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Próximo Desafio"
-        android:layout_marginTop="20dp"/>
+        android:layout_marginTop="60dp"/>
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/buttonInicio"
+        style="@style/btnDefaut"
+        android:background="@drawable/button_home"
+        android:drawableLeft="@drawable/ic_home"
         android:layout_width="340dp"
         android:layout_height="wrap_content"
         android:text="Início"

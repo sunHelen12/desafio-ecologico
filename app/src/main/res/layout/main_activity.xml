@@ -5,28 +5,39 @@
     android:layout_height="match_parent"
     android:id="@+id/main"
     android:orientation="vertical"
+    android:background="@color/background"
     android:gravity="center"
     android:padding="16dp">
 
+
     <TextView
         android:id="@+id/textViewTitle"
+        style="@style/fontDefaultTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Desafios Ecológicos Diários"
         android:textSize="24sp"
         android:textStyle="bold"
+        android:textColor="@color/secondary"
         android:gravity="center"/>
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/buttonVerDesafio"
+        style="@style/btnDefaut"
+        android:background="@drawable/button_gradient"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Ver Desafio de Hoje"
-        android:layout_marginTop="20dp"/>
+        android:layout_marginTop="60dp" />
 
     <include
         layout="@layout/menu_vertical"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"/>
+
+    <include
+        layout="@layout/footer_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 </LinearLayout>
