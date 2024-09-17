@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="fontDefault" >
+        <item name="android:fontFamily">@font/open_sans</item>
+    </style>
+
+    <style name="fontDefaultTitle" >
+        <item name="android:fontFamily">@font/open_sans_extrabold</item>
+    </style>
+
+    <style name="btnDefaut" >
+        <item name="android:padding">15dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
