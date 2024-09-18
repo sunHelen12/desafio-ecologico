@@ -9,21 +9,27 @@
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/buttonSobre"
         style="@style/btnDefaut"
-        android:textColor="@color/primary"
-        android:background="@drawable/button_stroke"
-        android:drawableLeft="@drawable/ic_info"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_stroke"
+        android:drawableStart="@drawable/ic_info"
+        android:drawablePadding="-30dp"
         android:text="Sobre"
-        android:layout_marginBottom="10dp"/>
+        android:textColor="@color/primary" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/buttonSair"
         style="@style/btnDefaut"
-        android:textColor="#c1121f"
-        android:background="@drawable/button_stroke"
-        android:drawableLeft="@drawable/ic_exit"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Sair do App"/>
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:background="@drawable/button_stroke"
+        android:drawableStart="@drawable/ic_exit"
+        android:drawablePadding="-30dp"
+        android:text="Sair do App"
+        android:textColor="#c1121f" />
 </LinearLayout>
