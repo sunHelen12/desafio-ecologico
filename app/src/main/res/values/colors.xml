@@ -4,5 +4,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="primary">#636d2f</color>
     <color name="secondary">#a0c44b</color>
+    <color name="tertiary">#44ab7a</color>
     <color name="background">#f7fdf3</color>
 </resources>

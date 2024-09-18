@@ -5,30 +5,32 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@color/background"
+    android:gravity="center"
     android:padding="16dp">
 
     <TextView
         android:id="@+id/textViewSobre"
+        style="@style/fontDefaultTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
-        android:fontFamily="@font/open_sans_extrabold"
         android:text="ODS 12: Consumo e produção responsáveis"
         android:textAlignment="center"
-        android:textColor="@color/primary"
-        android:textSize="18sp"
-        android:layout_marginTop="140dp"/>
+        android:textColor="@color/tertiary"
+        android:textSize="20sp"/>
 
     <TextView
+        style="@style/fontDefault"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/open_sans"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
         android:text="A ODS 12 busca garantir padrões de consumo e produção sustentáveis. Envolve reduzir o desperdício de recursos, promover a reciclagem e garantir o uso sustentável dos recursos naturais."
-        android:textAlignment="viewStart"
+        android:justificationMode="inter_word"
         android:textSize="16sp"
         android:textStyle="bold"
-        android:typeface="normal"
-        android:layout_marginTop="40dp"/>
+        android:typeface="normal" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/buttonVoltar"
@@ -36,7 +38,8 @@
         android:textColor="#ffffff"
         android:background="@drawable/button_back"
         android:drawableLeft="@drawable/ic_arrow"
-        android:layout_width="match_parent"
+        android:drawablePadding="-30dp"
+        android:layout_width="340dp"
         android:layout_height="wrap_content"
         android:text="Voltar para a Página Inicial"
         android:layout_marginTop="40dp"/>
