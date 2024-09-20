@@ -10,29 +10,29 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-        setContentView(R.layout.main_activity)
+        setContentView(R.layout.activity_main)
 
         // Referenciando o botão do XML
-        val buttonVerDesafio: Button = findViewById(R.id.buttonVerDesafio)
-        // Referencia os botões do menu
-        val buttonSobre: Button = findViewById(R.id.buttonSobre)
-        val buttonSair: Button = findViewById(R.id.buttonSair)
+        val buttonViewChallenge: Button = findViewById(R.id.button_View_Challenge)
+        // Referencia os botões do menu_buttons
+        val buttonAbout: Button = findViewById(R.id.button_About)
+        val buttonClose: Button = findViewById(R.id.button_Close)
 
         // Ação do botão para abrir a ChallengeActivity
-        buttonVerDesafio.setOnClickListener {
+        buttonViewChallenge.setOnClickListener {
             // Cria um Intent para abrir a próxima Activity
             val intent = Intent(this, ChallengeActivity::class.java)
             startActivity(intent)
         }
 
         // Sobre - abre a Activity Sobre
-        buttonSobre.setOnClickListener {
-            val intent = Intent(this, SobreActivity::class.java)
+        buttonAbout.setOnClickListener {
+            val intent = Intent(this, AboutActivity::class.java)
             startActivity(intent)
         }
 
-        // Sair do App - encerra o aplicativo
-        buttonSair.setOnClickListener {
+        // Sair do app - encerra o aplicativo
+        buttonClose.setOnClickListener {
             finishAffinity()  // Encerra todas as atividades do app
         }
     }
