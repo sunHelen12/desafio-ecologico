@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">desafio_ecologico</string>
+    <string name="text_Label_Home">Desafios Ecológicos Diários</string>
+    <string name="button_View_Challenge">Ver Desafio de Hoje</string>
+    <string name="button_About">Sobre</string>
+    <string name="button_Close">Sair do app</string>
+    <string name="text_View_Challenge">Economize Água!</string>
+    <string name="button_Next_Challenge">Próximo Desafio</string>
+    <string name="button_Home">Página Inicial</string>
+    <string name="text_Label_About">ODS 12: Consumo e produção responsáveis</string>
+    <string name="text_Resume">A ODS 12 busca garantir padrões de consumo e produção sustentáveis. Envolve reduzir o desperdício de recursos, promover a reciclagem e garantir o uso sustentável dos recursos naturais.</string>
+    <string name="text_Footer">© DroidSmiths 2024</string>
 </resources>

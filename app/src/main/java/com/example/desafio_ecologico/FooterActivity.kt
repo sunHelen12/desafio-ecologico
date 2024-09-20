@@ -9,11 +9,11 @@ import java.util.Calendar
 class FooterActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.footer_activity)
+        setContentView(R.layout.activity_footer)
 
         val calendar = Calendar.getInstance()
 
-        val textFooter: TextView = findViewById(R.id.textFooter)
+        val textFooter: TextView = findViewById(R.id.text_Footer)
 
         textFooter.text = "DroidSmiths ${calendar.get(Calendar.YEAR)}"
     }

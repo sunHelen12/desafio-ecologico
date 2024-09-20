@@ -9,33 +9,38 @@
     android:padding="16dp">
 
     <TextView
-        android:id="@+id/textViewDesafio"
+        android:id="@+id/text_Label_About"
         style="@style/fontDefaultTitle"
-        android:textAlignment="center"
-        android:textStyle="bold"
-        android:textColor="@color/tertiary"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Desafio do Dia: Economize Água!"
+        android:layout_marginBottom="10dp"
+        android:text="@string/text_Label_About"
+        android:textAlignment="center"
+        android:textColor="@color/tertiary"
         android:textSize="20sp"/>
 
-    <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/buttonProximoDesafio"
-        style="@style/btnDefaut"
-        android:background="@drawable/button_gradient"
+    <TextView
+        android:id="@+id/text_Resume"
+        style="@style/fontDefault"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Próximo Desafio"
-        android:layout_marginTop="60dp"/>
+        android:text="@string/text_Resume"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:justificationMode="inter_word"
+        android:textSize="16sp"
+        android:textColor="@color/primary"
+        android:typeface="normal" />
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/buttonInicio"
-        style="@style/btnDefaut"
+        android:id="@+id/button_Home"
+        style="@style/btnDefault"
         android:background="@drawable/button_back"
         android:drawableLeft="@drawable/ic_arrow"
         android:drawablePadding="-30dp"
         android:layout_width="340dp"
         android:layout_height="wrap_content"
-        android:text="Voltar para a Página Inicial"
-        android:layout_marginTop="80dp"/>
+        android:text="@string/button_Home"
+        android:layout_marginTop="40dp"/>
 </LinearLayout>
