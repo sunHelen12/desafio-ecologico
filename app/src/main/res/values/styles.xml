@@ -8,10 +8,9 @@
         <item name="android:fontFamily">@font/open_sans_extrabold</item>
     </style>
 
-    <style name="btnDefaut" >
+    <style name="btnDefault" >
         <item name="android:padding">15dp</item>
         <item name="android:textColor">#ffffff</item>
         <item name="textAllCaps">false</item>
-        <item name="android:textStyle">bold</item>
     </style>
 </resources>

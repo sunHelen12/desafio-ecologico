@@ -7,8 +7,8 @@
     android:padding="16dp">
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/buttonSobre"
-        style="@style/btnDefaut"
+        android:id="@+id/button_About"
+        style="@style/btnDefault"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="30dp"
@@ -17,19 +17,19 @@
         android:background="@drawable/button_stroke"
         android:drawableStart="@drawable/ic_info"
         android:drawablePadding="-30dp"
-        android:text="Sobre"
+        android:text="@string/button_About"
         android:textColor="@color/primary" />
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/buttonSair"
-        style="@style/btnDefaut"
+        android:id="@+id/button_Close"
+        style="@style/btnDefault"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="@string/button_Close"
         android:layout_marginStart="30dp"
         android:layout_marginEnd="30dp"
         android:background="@drawable/button_stroke"
         android:drawableStart="@drawable/ic_exit"
         android:drawablePadding="-30dp"
-        android:text="Sair do App"
         android:textColor="#c1121f" />
 </LinearLayout>

@@ -5,14 +5,14 @@ import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 
-class SobreActivity : AppCompatActivity() {
+class AboutActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.sobre_activity)
+        setContentView(R.layout.activity_about)
 
-        val buttonInicio: Button = findViewById(R.id.buttonVoltar)
+        val buttonHome: Button = findViewById(R.id.button_Home)
 
-        buttonInicio.setOnClickListener {
+        buttonHome.setOnClickListener {
             // Volta para a tela principal (MainActivity)
             val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
