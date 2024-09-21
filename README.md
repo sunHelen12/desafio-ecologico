@@ -1,13 +1,13 @@
 # **<span>*DESAFIO ECOLÓGICO - EQUIPE DROIDSMITHS*</span>**
 Desafio Final - Nível Iniciante | Bootcamp AndroidDev
 
-## Membros da Equipe
+## MEMBROS DA EQUIPE
 
 ![Jonas Holanda](https://avatars.githubusercontent.com/u/138180385?v=4) | ![Nelson Caracas](https://avatars.githubusercontent.com/u/124903742?s=400&u=fee3652b8af4fbbb8f20bb8c00d1aae48f002b50&v=4) | ![Helen Santos](https://avatars.githubusercontent.com/u/173499841?v=4) | ![Gabriel Lopes](https://media.licdn.com/dms/image/v2/D4D03AQEtZtgEugGYNg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701292845613?e=1730332800&v=beta&t=fgsDdMAh7h1tQIIoZSeKSkkG0IxBBecEs3vt9_9agrs) |
 | :--: |:--:| :--: | :--: | 
 | [![Jonas Holanda](https://img.shields.io/badge/-Jonas%20Holanda-30A3DC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonas-holanda) | [![Nelson Caracas](https://img.shields.io/badge/-Nelson%20Caracas-30A3DC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ncaracas) | [![Helen Santos](https://img.shields.io/badge/-Helen%20Santos-30A3DC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunHelen12) | [![Gabriel Lopes](https://img.shields.io/badge/-Gabriel%20Lopes-30A3DC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielLDN) |
 
-## Desafio Final
+## DESAFIO FINAL
 
 | Nível do Desafio | 
 | :-------------: | 
@@ -16,6 +16,12 @@ Desafio Final - Nível Iniciante | Bootcamp AndroidDev
 ## CONHEÇA NOSSO APLICATIVO!
 
 O aplicativo desenvolvido pela equipe DroidSmiths, vem recheado de desafios diários com base no Objetivo de Desenvolvimento Sustentável 12, fazendo com que o usuário tenha uma experiência divertida sendo  desafiado a reduzir o desperdício de recursos naturais e garantindo sua colaboração para um mundo mais sustentável.
+
+<div class="image-container">
+  <img src="https://github.com/user-attachments/assets/542ca06d-e21d-44c5-852b-7f27391dd3b5" alt="Imagem 1">
+  <img src="https://github.com/user-attachments/assets/6fd49078-5130-4041-99ca-580be36fa842" alt="Imagem 2">
+  <img src="https://github.com/user-attachments/assets/3af7a29b-0e77-418c-95f4-83c2c5f2132b" alt="Imagem 3">
+</div>
 
 ## FUNCIONAMENTO DO APLICATIVO 
 
@@ -35,7 +41,7 @@ A mágica acontece quando o usuário clica no botão ver desafios diários.  Ele
 
 ## SOBRE
 
-Para que o usuário saiba um pouco mais sobre O ODS 12, introduzimos um pequeno resumo das diretrizes dessa organização, que possui como um dos principais objetivos assegurar padrões de produção e de consumo sustentáveis.
+Para que o usuário saiba um pouco mais sobre O ODS 12, introduzimos um pequeno resumo das diretrizes dessa organização, que possui como um dos principais objetivos, assegurar padrões de produção e de consumo sustentáveis.
 
 ## SAIR DO APLICATIVO 
 
