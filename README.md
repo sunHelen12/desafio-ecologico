@@ -13,7 +13,41 @@ Desafio Final - Nível Iniciante | Bootcamp AndroidDev
 | :-------------: | 
 | 🔹🔈 Nível Iniciante |
 
-## Sobre Nosso Projeto
+## CONHEÇA NOSSO APLICATIVO!
+
+O aplicativo desenvolvido pela equipe DroidSmiths, vem recheado de desafios diários com base no Objetivo de Desenvolvimento Sustentável 12, fazendo com que o usuário tenha uma experiência divertida sendo  desafiado a reduzir o desperdício de recursos naturais e garantindo sua colaboração para um mundo mais sustentável.
+
+## FUNCIONAMENTO DO APLICATIVO 
+
+Na tela inicial do aplicativo, o usuário irá visualizar três botões:
+
+1. Ver Desafios de Hoje 
+2. Sobre 
+3. Sair do aplicativo
+
+Todas as funções são muito intuitivas, e a utilização do aplicativo é muito fácil.
+
+## VER DESAFIOS 
+
+A mágica acontece quando o usuário clica no botão ver desafios diários.  Ele acessará nossos desafios que irão aparecer de forma aleatória. Assim que concluir cada um, novos desafios aparecerão!!!
+
+## SOBRE
+
+Para que o usuário saiba um pouco mais sobre O ODS 12, introduzimos um pequeno resumo das diretrizes dessa organização, que possui como um dos principais objetivos assegurar padrões de produção e de consumo sustentáveis.
+
+## SAIR DO APLICATIVO 
+
+Para sair do aplicativo, o usuário poderá utilizar o botão sair do aplicativo.
+
+## DESENVOLVIMENTO
+
+ANDROID STUDIO
+LINGUAGEM KOTLIN
+
+
+
+
+
 
 
 
