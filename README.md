@@ -25,6 +25,8 @@ Na tela inicial do aplicativo, o usuário irá visualizar três botões:
 2. Sobre 
 3. Sair do aplicativo
 
+
+
 Todas as funções são muito intuitivas, e a utilização do aplicativo é muito fácil.
 
 ## VER DESAFIOS 
@@ -41,8 +43,13 @@ Para sair do aplicativo, o usuário poderá utilizar o botão sair do aplicativo
 
 ## DESENVOLVIMENTO
 
-ANDROID STUDIO
-LINGUAGEM KOTLIN
+![840cee8b164c10b](https://github.com/user-attachments/assets/15fc4a93-3d27-43a6-804e-4cff05bc75be)
+![correct](https://github.com/user-attachments/assets/f2ebb65f-55d1-48a1-b984-fe199161ecca)
+
+
+
+
+
 
 
 
