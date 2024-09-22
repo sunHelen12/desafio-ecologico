@@ -18,7 +18,7 @@ Desafio Final - Nível Iniciante | Bootcamp AndroidDev
 O aplicativo desenvolvido pela equipe DroidSmiths, vem recheado de desafios diários com base no Objetivo de Desenvolvimento Sustentável 12, fazendo com que o usuário tenha uma experiência divertida sendo  desafiado a reduzir o desperdício de recursos naturais e garantindo sua colaboração para um mundo mais sustentável.
 
 <div class="image-container">
-  <img src="https://github.com/user-attachments/assets/5a697e36-96e6-45c4-a301-3a1912b48848" alt="Imagem 1"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/user-attachments/assets/5a697e36-96e6-45c4-a301-3a1912b48848" alt="Imagem 1"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;
   <img src="https://github.com/user-attachments/assets/6fd49078-5130-4041-99ca-580be36fa842" alt="Imagem 2"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github.com/user-attachments/assets/3af7a29b-0e77-418c-95f4-83c2c5f2132b" alt="Imagem 3"> 
 </div>
